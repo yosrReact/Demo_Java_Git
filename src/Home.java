@@ -9,6 +9,7 @@ public class Home {
 		System.out.println("ligne de Raquel");
 		System.out.println("ligne de Fabien");
 		System.out.println("ligne de Dhekra");
+		System.out.println("ligne de Ludovic");
 		System.out.println("ligne de Tristan");
 
 	}
